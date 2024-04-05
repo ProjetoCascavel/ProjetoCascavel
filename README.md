@@ -1,0 +1,3 @@
+- 🌇 Olá, somos o Projeto Cascavel, um Projeto ambicioso de Roleplay no Minecraft Java (Forge) 1.16.5. Prezamos pela excelente qualidade de imersão e diversão dos nossos jogadores, achando o equilíbrio perfeito entre realismo/roleplay e diversão/arcade.
+- 🌇 No momento, não possuímos suporte e plataformas para jogadores MOBILE (Bedrock Edition). Contudo, planejamos fazer um servidor alternativo para o Bedrock no futuro!
+- 🌇 Apoie o nosso projeto, chave pix: 0e87392c-c974-4c21-929e-7233508e647c
